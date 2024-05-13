@@ -1,4 +1,4 @@
 Flask
-Request
 Gunicorn
 Flask_cors
+Numpy
